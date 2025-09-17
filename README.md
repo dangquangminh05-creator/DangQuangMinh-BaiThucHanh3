@@ -1,16 +1,16 @@
 # Tên dự án / Bài tập
 
 Mô tả ngắn gọn về mục tiêu của bài tập này (ví dụ: Lập trình điều khiển GPIO để đọc nút nhấn và nháy LED).
-
+Sử dụng thanh ghi điều khiển của UART để điều khiển LED
 ---
 
 ## Thông tin nhóm
 
 |STT| | Họ và Tên    |
 |---|
-| 1 | | Nguyễn Văn A |
-| 2 | | Trần Thị B   |
-| 3 | | Lê Văn C     |
+| 1 | | Hoàng Gia Nhật |
+| 2 | | Nguyễn Văn Thọ  |
+| 3 | | Đặng Quang Minh    |
 
 ---
 
@@ -30,5 +30,6 @@ Mô tả ngắn gọn về mục tiêu của bài tập này (ví dụ: Lập tr
 
 ---
 ## Video Demo
+
 
 (Dán link YouTube video demo sản phẩm tại đây)
