@@ -31,5 +31,6 @@ Sử dụng thanh ghi điều khiển của UART để điều khiển LED
 ---
 ## Video Demo
 
-
+Thưa thầy , cho em xin lỗi vì chưa nộp video được , do máy của em RAM hơi thấp nên mỗi lần mở IDE đều bị đơ , em gửi thầy video sau khi nâng RAM lên ạ 
 (Dán link YouTube video demo sản phẩm tại đây)
+
